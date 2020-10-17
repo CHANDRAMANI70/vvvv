@@ -1,0 +1,145 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+.one{
+  height: 10%;
+}
+.profile{
+  display: inline-block;
+  width: 40%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+}
+hr{
+  border-style: dotted ;
+  border-color:black;
+  border-width:9px 0 0 0;
+  width: 10%;
+  margin: 100px auto 100PX auto;
+}
+.contact-me{
+  width: 40%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+  display: inline-block;
+}
+.me{
+  width:250px;
+  border-radius: 30%;
+}
+.top_container{
+  background-color: #EAF6F6;
+  position:relative;
+  padding-top: 100px;
+  margin-bottom: 50px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 40px;
+  margin:0;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.profile{
+  margin-bottom: 50px;
+}
+.skillone{
+  width:25%;
+  float: left;
+  margin-right: 25px;
+}
+.skillsecond{
+  width:25%;
+  float: right;
+  margin-left: 25px;
+}
+h1{
+  font-size: 4.5rem;
+  color: #66BFBF;
+  margin:50px auto 0 auto;
+font-family: 'Berkshire Swash', cursive;
+}
+.he{
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+.con{;
+  color: white;
+  font-size: 1.5rem;
+}
+h2{
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
+}
+.first{
+  position: absolute;
+  top:50px;
+  right:300px;
+}
+.second{
+  position:absolute;
+  bottom:300px;
+  left:300px;
+
+}
+.pa{
+  color: #40514E;
+}
+.p{
+  color: #EAF6F6;
+}
+.touch {
+  margin-top: 30px;
+  margin-bottom: 30px;
+	background-color:#66BFBF;
+	-webkit-border-top-left-radius:40px;
+	-moz-border-radius-topleft:40px;
+	border-top-left-radius:40px;
+	-webkit-border-top-right-radius:40px;
+	-moz-border-radius-topright:40px;
+	border-top-right-radius:40px;
+	-webkit-border-bottom-right-radius:40px;
+	-moz-border-radius-bottomright:40px;
+	border-bottom-right-radius:40px;
+	-webkit-border-bottom-left-radius:40px;
+	-moz-border-radius-bottomleft:40px;
+	border-bottom-left-radius:40px;
+text-indent:0;
+	border:1px solid #18ab29;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:20px;
+	font-weight:bold;
+	font-style:normal;
+	line-height:30px;
+  height: 70px;
+width:200px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #2f6627;
+}.touch:hover {
+	background-color:#5cbf2a;
+}.touch:active {
+	position:relative;
+	top:1px;
+}
